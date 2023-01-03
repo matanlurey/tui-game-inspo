@@ -1,5 +1,5 @@
 <!-- cSpell:ignoreRegExp \[`.*`\] -->
-<!-- cSpell:words CogMind Diablo Dungeonuary -->
+<!-- cSpell:words Boxplots CogMind Diablo Dungeonuary -->
 
 # tui-game-inspo
 
@@ -101,3 +101,21 @@ _TUI_, or text-based UI, game development inspiration.
 ### [Dungeonuary](https://itch.io/jam/dungeonuary)
 
 ![Screenshot of the promotion](images/dungeonuary.jpeg)
+
+### [`cursive`](https://github.com/gyscos/cursive)
+
+![Screenshot of the framework running](images/cursive.png)
+
+### [`pyxel`](https://github.com/kitao/pyxel)
+
+![Screenshot of the framework running](images/pyxel.gif)
+
+## Tutorials
+
+### [ASCII Boxplots](https://arthur.maheo.net/ascii-boxplots/)
+
+![Screenshot of the tutorial](images/boxplots.png)
+
+### [Creating a Text-based UI with Rust](https://dev.to/protium/creating-a-text-based-ui-with-rust-420)
+
+![Screenshot of the tutorial](images/protium.gif)
