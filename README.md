@@ -110,6 +110,10 @@ _TUI_, or text-based UI, game development inspiration.
 
 ![Screenshot of the framework running](images/pyxel.gif)
 
+### [`Terminal.Gui`](https://github.com/gui-cs/Terminal.Gui)
+
+![Screenshot of the framework running](images/terminal-gui.gif)
+
 ## Tutorials
 
 ### [ASCII Boxplots](https://arthur.maheo.net/ascii-boxplots/)
