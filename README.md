@@ -1,5 +1,5 @@
 <!-- cSpell:ignoreRegExp \[`.*`\] -->
-<!-- cSpell:words Boxplots CogMind Diablo Dungeonuary -->
+<!-- cSpell:words ASCIIDENT Asciifarm Boxplots CogMind CosPlay Diablo Dungeonuary Mechs Roadwarden Warsim -->
 
 # tui-game-inspo
 
@@ -24,6 +24,14 @@ _TUI_, or text-based UI, game development inspiration.
 
 ![Screenshot of the game running](images/adom.webp)
 
+### [ASCIIDENT](https://store.steampowered.com/app/1113220/ASCIIDENT/)
+
+![Screenshot of the game running](images/asciident.jpg)
+
+### [Asciifarm](https://github.com/jmdejong/Asciifarm)
+
+![Screenshot of the game running](images/ascii-farm.png)
+
 ### [AsciiSector](https://www.linuxlinks.com/AsciiSector/)
 
 ![Screenshot of the game running](images/ascii-sector.webp)
@@ -40,17 +48,33 @@ _TUI_, or text-based UI, game development inspiration.
 
 ![Screenshot of the game running](images/diablo-rl.png)
 
+### [Door in the Woods](https://store.steampowered.com/app/1189230/Door_in_the_Woods/)
+
+![Screenshot of the game running](images/door-in-the-woods.png)
+
 ### [Dwarf Fortress](http://www.bay12games.com/dwarves/)
 
 ![Screenshot of the game running](images/dwarf-fortress.jpeg)
+
+### [Of Mice and Mechs](https://github.com/MarxMustermann/OfMiceAndMechs)
+
+![Screenshot of the game running](images/mice-and-mechs.png)
 
 ### [Operation: Overkill II](https://www.pcmag.com/news/the-forgotten-world-of-bbs-door-games)
 
 ![Screenshot of the game running](images/operation-overkill-ii.jpg)
 
+### [Rogue Bits](https://store.steampowered.com/app/949790/Rogue_Bit/)
+
+![Screenshot of the game running](images/rogue-bit.jpg)
+
 ### [Sanctuary RPG](http://www.sanctuaryrpg.com)
 
 ![Screenshot of the game running](images/sanctuary-rpg.jpeg)
+
+### [Warsim](https://store.steampowered.com/app/659540/Warsim_The_Realm_of_Aslona/)
+
+![Screenshot of the game running](images/warsim.jpg)
 
 ### [`angband`](https://github.com/angband/angband)
 
@@ -67,6 +91,10 @@ _TUI_, or text-based UI, game development inspiration.
 ### [`clidle`](https://github.com/ajeetdsouza/clidle)
 
 ![Screenshot of the game running](images/clidle.png)
+
+### [`csol`](https://github.com/nielssp/csol)
+
+![Screenshot of the game running](images/csol.png)
 
 ### [`curseofwar`](https://github.com/a-nikolaev/curseofwar/)
 
@@ -98,6 +126,10 @@ _TUI_, or text-based UI, game development inspiration.
 
 ## Other
 
+### [CosPlay](https://github.com/nivanov/cosplay)
+
+![Screenshot of the framework running](images/cosplay.gif)
+
 ### [Dungeonuary](https://itch.io/jam/dungeonuary)
 
 ![Screenshot of the promotion](images/dungeonuary.jpeg)
@@ -123,3 +155,23 @@ _TUI_, or text-based UI, game development inspiration.
 ### [Creating a Text-based UI with Rust](https://dev.to/protium/creating-a-text-based-ui-with-rust-420)
 
 ![Screenshot of the tutorial](images/protium.gif)
+
+## Honorable Mentions
+
+These games, apps, or libraries are not (full) ASCII, but are still text-based:
+
+### [Caves of Qud](https://store.steampowered.com/app/233450/Caves_of_Qud/)
+
+![Screenshot of the game running](images/caves-of-qud.jpg)
+
+### [Dusk '82](https://store.steampowered.com/app/1465510/DUSK_82_ULTIMATE_EDITION/)
+
+![Screenshot of the game running](images/dusk-82.jpg)
+
+### [Rift Wizard](https://store.steampowered.com/app/1091500/Rift_Wizard/)
+
+![Screenshot of the game running](images/rift-wizard.jpg)
+
+### [Roadwarden](https://store.steampowered.com/app/1091500/Roadwarden/)
+
+![Screenshot of the game running](images/road-warden.jpg)
