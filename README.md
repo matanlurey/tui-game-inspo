@@ -50,7 +50,11 @@ _TUI_, or text-based UI, game development inspiration.
 
 ### [Door in the Woods](https://store.steampowered.com/app/1189230/Door_in_the_Woods/)
 
-![Screenshot of the game running](images/door-in-the-woods.png)
+![Screenshot of the game running](images/door-in-the-woods.jpg)
+
+### [Ganymede Gate](https://www.linuxlinks.com/Ganymede-Gate/)
+
+![Screenshot of the game running](images/ganymede-gate.png)
 
 ### [Dwarf Fortress](http://www.bay12games.com/dwarves/)
 
@@ -71,6 +75,18 @@ _TUI_, or text-based UI, game development inspiration.
 ### [Sanctuary RPG](http://www.sanctuaryrpg.com)
 
 ![Screenshot of the game running](images/sanctuary-rpg.jpeg)
+
+### [Terminal Assassin](https://memmakerx.itch.io/terminal-assassin)
+
+![Screenshot of the game running](images/terminal-assassin.png)
+
+### Terminal Rain
+
+![Screenshot of the game running](images/terminal-rain.gif)
+
+### [Thunder Run](https://www.reddit.com/r/roguelikes/comments/3tufky/roguelike_themes_discussion/)
+
+![Screenshot of the game running](images/thunder-run.png)
 
 ### [Warsim](https://store.steampowered.com/app/659540/Warsim_The_Realm_of_Aslona/)
 
@@ -155,6 +171,10 @@ _TUI_, or text-based UI, game development inspiration.
 ### [Creating a Text-based UI with Rust](https://dev.to/protium/creating-a-text-based-ui-with-rust-420)
 
 ![Screenshot of the tutorial](images/protium.gif)
+
+### [Square Tiles](https://dungeon.name/square_tiles.html)
+
+![Screenshot of the tutorial](images/square-tiles.png)
 
 ## Honorable Mentions
 
